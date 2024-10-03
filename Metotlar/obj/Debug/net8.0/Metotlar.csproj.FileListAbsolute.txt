@@ -1,0 +1,14 @@
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/bin/Debug/net8.0/Metotlar
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/bin/Debug/net8.0/Metotlar.deps.json
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/bin/Debug/net8.0/Metotlar.runtimeconfig.json
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/bin/Debug/net8.0/Metotlar.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/bin/Debug/net8.0/Metotlar.pdb
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/obj/Debug/net8.0/Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/obj/Debug/net8.0/Metotlar.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/obj/Debug/net8.0/Metotlar.AssemblyInfo.cs
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/obj/Debug/net8.0/Metotlar.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/obj/Debug/net8.0/Metotlar.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/obj/Debug/net8.0/refint/Metotlar.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/obj/Debug/net8.0/Metotlar.pdb
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/obj/Debug/net8.0/Metotlar.genruntimeconfig.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/Metotlar/obj/Debug/net8.0/ref/Metotlar.dll
