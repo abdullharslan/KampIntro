@@ -5,12 +5,12 @@ public class ProductManager
     // Void olarak belirttiğimiz metotları emir kipinde git yap bitir demek oluyor.
     public void Add(Product product)
     {
-        Console.WriteLine(Product.ProductName + " added");
+        // Console.WriteLine(Product.ProductName + " added");
     }
     
     public void Update(Product product)
     {
-        Console.WriteLine(Product.ProductName + " upgraded");
+        // Console.WriteLine(Product.ProductName + " upgraded");
     }
     
     /*
