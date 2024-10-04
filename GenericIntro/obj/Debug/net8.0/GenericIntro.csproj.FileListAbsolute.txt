@@ -1,0 +1,15 @@
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/bin/Debug/net8.0/GenericIntro
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/bin/Debug/net8.0/GenericIntro.deps.json
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/bin/Debug/net8.0/GenericIntro.runtimeconfig.json
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/bin/Debug/net8.0/GenericIntro.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/bin/Debug/net8.0/GenericIntro.pdb
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/obj/Debug/net8.0/GenericIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/obj/Debug/net8.0/GenericIntro.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/obj/Debug/net8.0/GenericIntro.AssemblyInfo.cs
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/obj/Debug/net8.0/GenericIntro.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/obj/Debug/net8.0/GenericIntro.sourcelink.json
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/obj/Debug/net8.0/GenericIntro.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/obj/Debug/net8.0/refint/GenericIntro.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/obj/Debug/net8.0/GenericIntro.pdb
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/obj/Debug/net8.0/GenericIntro.genruntimeconfig.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/GenericIntro/obj/Debug/net8.0/ref/GenericIntro.dll
