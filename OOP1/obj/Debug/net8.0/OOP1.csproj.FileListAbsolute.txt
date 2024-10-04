@@ -1,0 +1,15 @@
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/bin/Debug/net8.0/OOP1
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/bin/Debug/net8.0/OOP1.deps.json
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/bin/Debug/net8.0/OOP1.runtimeconfig.json
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/bin/Debug/net8.0/OOP1.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/bin/Debug/net8.0/OOP1.pdb
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/obj/Debug/net8.0/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/obj/Debug/net8.0/OOP1.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/obj/Debug/net8.0/OOP1.AssemblyInfo.cs
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/obj/Debug/net8.0/OOP1.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/obj/Debug/net8.0/OOP1.sourcelink.json
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/obj/Debug/net8.0/OOP1.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/obj/Debug/net8.0/refint/OOP1.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/obj/Debug/net8.0/OOP1.pdb
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/obj/Debug/net8.0/OOP1.genruntimeconfig.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/OOP1/obj/Debug/net8.0/ref/OOP1.dll
