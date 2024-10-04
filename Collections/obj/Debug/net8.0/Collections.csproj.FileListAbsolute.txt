@@ -1,0 +1,15 @@
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/bin/Debug/net8.0/Collections
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/bin/Debug/net8.0/Collections.deps.json
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/bin/Debug/net8.0/Collections.runtimeconfig.json
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/bin/Debug/net8.0/Collections.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/bin/Debug/net8.0/Collections.pdb
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/obj/Debug/net8.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/obj/Debug/net8.0/Collections.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/obj/Debug/net8.0/Collections.AssemblyInfo.cs
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/obj/Debug/net8.0/Collections.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/obj/Debug/net8.0/Collections.sourcelink.json
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/obj/Debug/net8.0/Collections.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/obj/Debug/net8.0/refint/Collections.dll
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/obj/Debug/net8.0/Collections.pdb
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/obj/Debug/net8.0/Collections.genruntimeconfig.cache
+/Users/abdullah/Desktop/WORKING/KampIntro/Collections/obj/Debug/net8.0/ref/Collections.dll
